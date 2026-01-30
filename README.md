@@ -40,7 +40,9 @@ Welcome to my realm of code and creativity! 🚀
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## Connect With Me
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
+💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-roy/)
+🌐 [My Portfolio Website](https://chaitanya-14.github.io)
+
 
 ## Favorite Quote
 > "The grass always look greener on the other side - until you step over and realisze it still needs care." 
