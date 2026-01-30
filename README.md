@@ -1,4 +1,4 @@
-## Hey, I'm Chaitanya Roy 🌟
+# Hey, I'm Chaitanya Roy 🌟
 
 
 Welcome to my realm of code and creativity! 🚀
