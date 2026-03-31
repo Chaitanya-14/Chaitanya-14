@@ -18,7 +18,7 @@ Welcome to my realm of code and creativity! 🚀
 <!--![SystemVerilog](https://img.shields.io/badge/SystemVerilog-181717?style=for-the-badge&logo=systemverilog&logoColor=white)-->
 <!--![UVM](https://img.shields.io/badge/UVM-Methodology-blue?style=for-the-badge)-->
 ![Digital Logic](https://img.shields.io/badge/Digital_Logic-FSM_&_CMOS-00599C?style=for-the-badge)
-![FPGA](https://img.shields.io/badge/FPGA-Xilinx_Vivado-FF0000?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-ModelSim-FF0000?style=for-the-badge)
 
 ### 💻 Simulation & EDA Tools
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-2C2D72?style=for-the-badge)
