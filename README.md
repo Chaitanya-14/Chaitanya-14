@@ -23,7 +23,7 @@ Welcome to my realm of code and creativity! 🚀
 ### 💻 Simulation & EDA Tools
 ![ModelSim](https://img.shields.io/badge/ModelSim-Simulation-2C2D72?style=for-the-badge)
 ![GTKWave](https://img.shields.io/badge/GTKWave-Waveform_Analysis-green?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-Synthesis-FF6600?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado,Quartus%20Prime-Synthesis-FF6600?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🐍 Scripting & Automation (My "Superpower")
